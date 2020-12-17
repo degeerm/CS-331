@@ -1,32 +1,27 @@
 # CS-162-C++
-Course title: Introduction to Computer Science II
+Course title: Introduction to Artifical Intelligence
 
-Lecturer: Justin Goins
-
-Name: Hao Jia
-
-ONID: 933636448
-
-Section: CS_162_C001_S2019
 
 # Description:
 
-Basic data structures. Computer programming techniques and application of software engineering principles. Introduction to analysis of programs.
-Repository for all course related modules of CS162 at Oregon State University for the Spring 2019 term.
+Fundamental concepts in artificial intelligence using the unifying theme of an intelligent agent. Topics include agent architectures, search, games, logic and reasoning, and Bayesian networks.
+
 
 # Assignments:
 
-1) The Wizard Spellbook Catalog
-A file I/O intensive program which utilized different accounts for different "scopes", with the implementation of sorting algorithms, file I/Os, Logins.
+Assignment #1: Uninformed and Informed Search
 
-2) The Pizza Portal
-OOP "Has-a" relationship practice as well as file I/O
 
-3) Zoo Tycoon
-OOP "Is-a" relationshop with inheritance practice as well as file I/O and metamorphism of different "animals" to be an animal
+In the wolves and chickens puzzle, C chickens and W wolves must cross from the right bank of a river to the left bank using a boat. The boat holds a maximum of two animals. In addition, the boat cannot cross the river by itself and must have at least one animal on board to drive it. This problem seems simple except for the following key constraint. If there are chickens present on a bank, there cannot be more wolves than chickens, otherwise the wolves will eat the chickens.
 
-4) Hunt the Wumpus
-A clone of a popular game known as Hunt the Wumpus (OOP, "Is-a", STL templates)
 
-5) Linked List Implementation
-A simple implementation of Linked List from scratch as well as some common methods.
+Assignment #2: Simplified Othello
+
+
+Othello is a classic two-player, turn-based game in which players try to flip as many pieces over to their color as possible. In this assignment you will convert a simplified 4x4 two-player game of Othello into a one-player version in which a human player gets to play against a very smart computer opponent. You will be implementing the computer opponent using the Minimax algorithm discussed in class.
+
+
+Assignment #3: Sentiment Analysis
+
+
+The goal of sentiment analysis is to determine the writer's attitude toward the topic about which they are writing. It can be applied to text from reviews and survey responses to determine whether the writer feels positively or negatively about the subject. In this assignment, you will predict the sentiment sentences taken from Yelp reviews, using data from. You will be using naive Bayes for this classification problem. Given an input sentence, you are to determine whether a sentence is positive or negative.
