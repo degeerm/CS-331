@@ -1,4 +1,4 @@
-# CS-162-C++
+# CS-331
 Course title: Introduction to Artifical Intelligence
 
 
